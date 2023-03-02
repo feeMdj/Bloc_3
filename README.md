@@ -1,6 +1,10 @@
 # Bloc_3
+Analyse prédictive de données structurées par l'intelligence artificielle.
 
-Here you will find 3 project made during my FullStack Jedha Bootcamp:
+Video
+
+
+Here you will find 3 projects:
 
 - Walmart Sales — Supervised ML
 
@@ -9,25 +13,23 @@ Here you will find 3 project made during my FullStack Jedha Bootcamp:
 - Uber Pickups - Unsupervised ML
 
 
-1- Walmart : predict weekly sales
+# 1- Walmart : predict weekly sales
 
 Company's Description 📇
 Walmart Inc. is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores from the United States, headquartered in Bentonville, Arkansas. The company was founded by Sam Walton in 1962.
 
-Project 🚧
+## Scope of the Project 🚧
 Walmart's marketing service has asked you to build a machine learning model able to estimate the weekly sales in their stores, with the best precision possible on the predictions made. Such a model would help them understand better how the sales are influenced by economic indicators, and might be used to plan future marketing campaigns
 
-Deliverable 📬
-To complete this project, your team should:
-
-    Create some visualizations
-    Train at least one linear regression model on the dataset, that predicts the amount of weekly sales as a function of the other variables
-    Assess the performances of the model by using a metric that is relevant for regression problems
-    Interpret the coefficients of the model to identify what features are important for the prediction
-    Train at least one model with regularization (Lasso or Ridge) to reduce overfitting
+## Steps 
+    - Create some visualizations
+    - Train at least one linear regression model on the dataset, that predicts the amount of weekly sales as a function of the other variables
+    - Assess the performances of the model by using a metric that is relevant for regression problems
+    - Interpret the coefficients of the model to identify what features are important for the prediction
+    - Train at least one model with regularization (Lasso or Ridge) to reduce overfitting
     
     
-    2- Challenge : predict conversions 🏆🏆
+# 2- Conversion Rate Challenge: Predict website newsletter conversion
 
 In this project, you will participate to a machine learning competition like the ones that are organized by https://www.kaggle.com/. You will be able to work with jupyter notebooks as usual, but in the end you'll have to submit your model's predictions to your teacher/TA, so your model's performances will be evaluated in an independent way. The scores achieved by the different teams will be stored into a leaderboard 🏅🏅
 Description of a machine learning challenge 🚴🚴
@@ -57,7 +59,7 @@ To complete this project, your team should:
     Analyze your best model's parameters and try to make some recommendations to improve the conversion rate in the future
     
 
-3- UBER Pickups
+# 3- UBER Pickups: Find hot zones for Uber pickup per day and per hour
 
 Company's Description 📇
 Uber is one of the most famous startup in the world. It started as a ride-sharing application for people who couldn't afford a taxi. Now, Uber expanded its activities to Food Delivery with Uber Eats, package delivery, freight transportation and even urban transportation with Jump Bike and Lime that the company funded.
