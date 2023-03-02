@@ -75,3 +75,13 @@ Therefore, Uber's data team would like to work on a project where their app woul
     - Find hot zones using clustering algorithms
     - Create a map with hot-zones using any python library (plotly or anything else).
     - Compare results with at least two unsupervised algorithms like KMeans and DBScan.
+    
+## Files
+You'll find these files in the repository:
+One folder per project and for each:
+  - Requirements.txt 
+  - A notebook for each
+  - The dataset in csv file when provided
+  - For conversion rate the resulats of my best model prediction in a csv file
+
+
