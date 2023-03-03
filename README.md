@@ -80,8 +80,8 @@ Therefore, Uber's data team would like to work on a project where their app woul
 You'll find these files in the repository:
 One folder per project and for each:
   - Requirements.txt 
-  - A notebook for each
+  - A notebook with the whole project (conversion rate and uber were created on colab)
   - The dataset in csv file when provided
-  - For conversion rate the resulats of my best model prediction in a csv file
+  - For conversion rate the results of my best model prediction in a csv file
 
 
