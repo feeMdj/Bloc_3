@@ -1,7 +1,10 @@
 # Bloc_3
 ## Analyse prédictive de données structurées par l'intelligence artificielle.
 
-Video
+## VIDEO PRESENTATION
+[LIEN VIDEO DE PRESENTATION](https://share.vidyard.com/watch/e5zyyF8zufvZvDxxrCR2Dm?)
+
+----------
 
 
 Here you will find 3 projects:
