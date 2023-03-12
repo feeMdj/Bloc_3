@@ -1,4 +1,4 @@
-# Bloc_3
+# Bloc 3
 ## Analyse prédictive de données structurées par l'intelligence artificielle.
 
 ## VIDEO PRESENTATION
